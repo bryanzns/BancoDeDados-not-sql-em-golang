@@ -82,8 +82,3 @@ Quer colaborar? Fique à vontade para abrir uma issue ou um pull request com mel
 
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
 
-
----
-
-Se quiser, posso criar também um logo ASCII para exibir no terminal, ou ainda adicionar GIFs/demonstrações visuais no README. Deseja isso?
-
